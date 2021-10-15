@@ -1,0 +1,9 @@
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\bin\Debug\Expendedora2.Biblioteca.dll
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\bin\Debug\Expendedora2.Biblioteca.pdb
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\bin\Debug\Expendedora.Excepciones.dll
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\bin\Debug\Expendedora.Excepciones.pdb
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\obj\Debug\Expendedora2.Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\obj\Debug\Expendedora2.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\obj\Debug\Expendedora2.Biblioteca.csproj.CopyComplete
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\obj\Debug\Expendedora2.Biblioteca.dll
+C:\Users\Romina\source\repos\Expendedora2.Consola\Expendedora2.Biblioteca\obj\Debug\Expendedora2.Biblioteca.pdb
